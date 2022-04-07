@@ -1,5 +1,5 @@
-a = input("Please enter first number:\n")
-b = input("Please enter second number:\n")
+a = int(input("Please enter first number:\n"))
+b = int(input("Please enter second number:\n"))
 operand = input("Please enter an operand from the list: '+', '-', '/', '*'\n")
 
 if operand == '+':
